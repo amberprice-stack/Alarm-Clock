@@ -6,7 +6,5 @@ This Alarm Clock allows you to set an alarm at a time of your choosing. You will
 
 # Build With
 * NetBeans
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 # Authors
 * Amber Price
